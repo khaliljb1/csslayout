@@ -1,0 +1,20 @@
+.logo1{
+    margin-top: 10px;
+    width: 215px;
+}
+ul{
+    margin-top: 10px;
+    display: flex;
+}
+li{
+    margin-right: 20px;
+    list-style-type: none;
+}
+a{
+    list-style: none;
+    list-style-type: none;
+    color: grey;
+    text-decoration: none;
+    
+}
+a:hover{color:#00b39b;}
